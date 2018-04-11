@@ -1,0 +1,9 @@
+{
+    "modpacks": [
+      {
+        "modpack_name": "Test Modpack",
+        "modpack_author": "metherul,",
+        "modpack_path": "Test Modpack.auto"
+      }
+    ]
+  }
